@@ -1,0 +1,22 @@
+main{
+    
+    text-align: center;
+    font-family: cursive;
+}
+html{
+    background-color: darkkhaki;
+}
+span{
+    font-size: 500%;
+    
+}
+.botones :hover{
+background-color:cornflowerblue;
+border-radius: 50%;
+font-size: 20px;
+width: 150px;
+
+}
+h1{
+    font-size: 300%;
+}
